@@ -24,6 +24,6 @@ Poiché questo progetto usa PHP e un database, per avviarlo sul tuo computer ti 
 ---
 
 ## Autori
-Progetto sviluppato in collaborazione (Team "Challenge"):
+Progetto sviluppato in collaborazione:
 - **Carmine Ciccarelli** - Il mio profilo LinkedIn https://www.linkedin.com/in/carmine-ciccarelli-bb685a3bb/
 - **Filippo Cuccurullo** - Il mio profilo LinkedIn https://www.linkedin.com/in/filippo-cuccurullo-9097603ab
