@@ -3,6 +3,9 @@
 Questo è un progetto web completo (Full-Stack) che abbiamo sviluppato per gestire e visualizzare i dati di un torneo sportivo scolastico. 
 Lo abbiamo realizzato per mettere in pratica l'integrazione tra interfaccia front-end (HTML/CSS) e logica back-end (PHP), imparando a far comunicare un sito web con un database relazionale.
 
+> **Nota sulla trasparenza e lo sviluppo:**
+> Per ottimizzare i tempi e migliorare la resa visiva (in particolare per la stesura del file `style.css` e alcune strutture di base), ci siamo avvalsi del supporto dell'Intelligenza Artificiale come "assistente alla programmazione". Tutta la logica architetturale, la sicurezza del database e l'integrazione del codice PHP sono state invece studiate, comprese e revisionate personalmente dal team.
+
 ## Come funziona
 L'applicazione simula un portale per gli studenti e permette di navigare tra diverse sezioni:
 
